@@ -1,0 +1,78 @@
+Image of GitHub license usage chart
+Copyright 2015 GitHub, Inc
+https://blog.github.com/2015-03-09-open-source-license-usage-on-github-com/
+
+Source of License table
+Copyright 2013 - 2018 GitHub, Inc under the Creative Commons Attribution 3.0 Unported License
+https://choosealicense.com/
+
+License table scrollthrough
+Copyright 2018 Richie Bendall under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Image of Linus Torvalds
+Copyright Linus Torvalds
+https://github.com/torvalds
+
+Image of Apache
+Copyright Apache
+
+Image of BSD
+Various copyright and copyleft licenses. These are part of the Open Icon Library's webpage icon package.
+https://commons.wikimedia.org/wiki/File:License_icon-bsd.svg
+
+Image of Creative Commons CC0
+Copyright Creative Commons
+https://creativecommons.org/about/downloads/
+
+Image of Copyright Header license
+Copyright 2018 CloudPosse under the GNU GPL 3.0
+https://github.com/cloudposse/copyright-header
+
+Image of YAPF's license
+Copyright 2015 Google Inc. All Rights Reserved.
+https://github.com/google/yapf/blob/master/yapf/__init__.py
+
+Image of QuillJS's license
+Copyright 2018 QuillJS under the BSD 3-Clause "New" or "Revised" License
+https://github.com/quilljs/quill
+
+Image of the GNU GPL license
+Copyright GNU under the GNU Free Documentation License
+https://www.gnu.org/graphics/heckert_gnu.en.html
+
+Image of outlined code icon
+Copyright 2018 Google under Apache 2.0 License
+https://material.io/tools/icons/?search=code&style=outline
+
+Image of outlined folder icon
+Copyright 2018 Google under Apache 2.0 License
+https://material.io/tools/icons/?search=folder&style=outline
+
+Image of outlined view compact icon
+Copyright 2018 Google under Apache 2.0 License
+https://material.io/tools/icons/?search=view%20compact&style=outline
+
+Image of outlined wifi icon
+Copyright 2018 Google under Apache 2.0 License
+https://material.io/tools/icons/?search=wifi&style=outline
+
+Image of the Unlicense license
+Public domain
+https://commons.wikimedia.org/wiki/File:PD-icon-black.svg
+
+Video of the sea
+Copyright 2014 Toby Smith under the Standard YouTube License
+https://www.youtube.com/watch?v=SxWKffqBjMM
+
+Soundtrack of Viva La Vida
+Song: Viva La Vida
+Artist: Karaoke Soundtrack - Originally performed by Coldplay
+Album: Karaoke Elite Vol.1
+Writers: Will Champion, Jon Buckland, Guy Berryman, Chris Martin
+Licensed to YouTube by: Pirames International Srl (on behalf of Joe & Joe); UMPI, UBEM, ASCAP, UMPG Publishing, and 10 music rights societies
+Video uploaded under the Standard YouTube License
+https://www.youtube.com/watch?v=RhezjXYJ3rM
+
+Music for outro
+Copyright 2017 Glove and Boots under the Standard YouTube License
+https://www.youtube.com/watch?v=FUUZ9s7KVpY
